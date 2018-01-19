@@ -1,0 +1,3 @@
+[submodule "tibetan-spellchecker"]
+	path = tibetan-spellchecker
+	url = https://github.com/eroux/tibetan-spellchecker.git
